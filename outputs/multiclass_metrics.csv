@@ -1,0 +1,5 @@
+,Accuracy (%),Macro precision,Macro recall,Macro F1,Weighted F1,Unweighted kappa,Quadratic weighted kappa
+AI,79.518,0.676,0.622,0.635,0.793,0.679,0.908
+Reader 1,64.337,0.518,0.439,0.432,0.594,0.393,0.707
+Reader 2,70.12,0.562,0.586,0.543,0.703,0.544,0.884
+Reader 3,63.133,0.547,0.589,0.529,0.654,0.466,0.836

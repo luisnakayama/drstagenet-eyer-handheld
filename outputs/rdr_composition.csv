@@ -1,0 +1,14 @@
+,n images
+Referable DR (reference),173
+  ICDR >= 2,168
+  ICDR >= 2 with macular edema,107
+  macular edema alone (ICDR 0 or 1),5
+Macular edema-only cases referred: AI,3
+Macular edema-only cases referred: Reader 1,3
+Macular edema-only cases referred: Reader 2,2
+Macular edema-only cases referred: Reader 3,1
+Model false negatives,6
+  moderate NPDR,4
+  moderate NPDR with macular edema,1
+  macular edema alone,2
+  severe NPDR or PDR,0

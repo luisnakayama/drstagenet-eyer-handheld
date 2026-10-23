@@ -1,0 +1,10 @@
+,value
+Misclassified images,85.0
+  one grade apart,73.0
+  one grade apart (% of errors),85.9
+  two or more grades apart,12.0
+    overestimation,7.0
+    underestimation,5.0
+Largest discrepancy (grades),2.0
+Severe NPDR graded as moderate NPDR,25.0
+No DR graded as mild NPDR,17.0

@@ -1,0 +1,7 @@
+,Quadratic weighted kappa
+Grader A vs Grader B (before adjudication),0.889
+DRStageNet vs adjudicated reference,0.908
+DRStageNet vs Grader A alone,0.898
+DRStageNet vs Grader B alone,0.882
+Grader A vs adjudicated reference,0.927
+Grader B vs adjudicated reference,0.936

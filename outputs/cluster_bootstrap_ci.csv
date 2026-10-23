@@ -1,0 +1,45 @@
+Rater,Metric,estimate,ci_low,ci_high
+AI,MC Accuracy,79.5181,75.3054,83.4952
+AI,MC Weighted F1,0.7933,0.749,0.8346
+AI,MC Kappa (unweighted),0.6794,0.6193,0.738
+AI,MC Kappa (quadratic),0.9079,0.8807,0.9305
+AI,rDR Accuracy,95.9036,93.887,97.6472
+AI,rDR Sensitivity,96.5318,93.4641,98.8889
+AI,rDR Specificity,95.4545,92.6066,97.8994
+AI,rDR PPV,93.8202,89.8305,97.0764
+AI,rDR NPV,97.4684,95.2785,99.1736
+AI,rDR F1,0.9516,0.9246,0.9739
+AI,rDR Kappa,0.9161,0.8733,0.9522
+Reader 1,MC Accuracy,64.3373,59.1346,69.2133
+Reader 1,MC Weighted F1,0.5941,0.5324,0.6529
+Reader 1,MC Kappa (unweighted),0.3927,0.33,0.453
+Reader 1,MC Kappa (quadratic),0.7067,0.6305,0.7667
+Reader 1,rDR Accuracy,84.0964,80.4819,87.5007
+Reader 1,rDR Sensitivity,79.1908,72.7261,85.3936
+Reader 1,rDR Specificity,87.6033,83.1258,91.8216
+Reader 1,rDR PPV,82.0359,74.8462,88.0952
+Reader 1,rDR NPV,85.4839,80.6947,89.8041
+Reader 1,rDR F1,0.8059,0.7516,0.8503
+Reader 1,rDR Kappa,0.6713,0.5959,0.7421
+Reader 2,MC Accuracy,70.1205,65.3539,74.7633
+Reader 2,MC Weighted F1,0.7034,0.6545,0.7497
+Reader 2,MC Kappa (unweighted),0.5442,0.4845,0.5991
+Reader 2,MC Kappa (quadratic),0.8843,0.8555,0.9075
+Reader 2,rDR Accuracy,93.494,90.9091,95.8843
+Reader 2,rDR Sensitivity,89.0173,83.8884,93.6311
+Reader 2,rDR Specificity,96.6942,93.7488,98.8593
+Reader 2,rDR PPV,95.0617,90.7885,98.2558
+Reader 2,rDR NPV,92.4901,88.9724,95.7198
+Reader 2,rDR F1,0.9194,0.8839,0.9494
+Reader 2,rDR Kappa,0.865,0.81,0.9137
+Reader 3,MC Accuracy,63.1325,58.1173,67.9248
+Reader 3,MC Weighted F1,0.6537,0.6023,0.7003
+Reader 3,MC Kappa (unweighted),0.4658,0.4039,0.5223
+Reader 3,MC Kappa (quadratic),0.8361,0.7891,0.8722
+Reader 3,rDR Accuracy,90.6024,87.4686,93.3653
+Reader 3,rDR Sensitivity,82.0809,75.5939,87.7921
+Reader 3,rDR Specificity,96.6942,93.9654,98.8552
+Reader 3,rDR PPV,94.6667,90.1961,98.2766
+Reader 3,rDR NPV,88.3019,83.8707,92.1875
+Reader 3,rDR F1,0.8793,0.8358,0.915
+Reader 3,rDR Kappa,0.803,0.7366,0.8589

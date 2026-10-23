@@ -1,0 +1,5 @@
+,Sensitivity (%) [95% CI],Specificity (%) [95% CI],TP,FN,FP,TN
+VTDR referred (model ICDR >= 2),97.7 [93.3–99.2],81.5 [76.6–85.6],125,3,53,234
+Severe NPDR or PDR referred (model ICDR >= 2),100.0 [94.2–100.0],67.1 [62.1–71.8],62,0,116,237
+VTDR graded as severe NPDR or PDR (model ICDR >= 3),28.9 [21.8–37.3],99.0 [97.0–99.6],37,91,3,284
+Severe NPDR or PDR graded as such (model ICDR >= 3),53.2 [41.0–65.1],98.0 [96.0–99.0],33,29,7,346

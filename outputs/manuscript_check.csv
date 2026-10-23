@@ -1,0 +1,42 @@
+Item,Reported,Recomputed,ok
+Images acquired,489.0,489.0,True
+Excluded: previous treatment,57.0,57.0,True
+Excluded: ungradable,17.0,17.0,True
+Images analysed,415.0,415.0,True
+Patients analysed,252.0,252.0,True
+Patients with both eyes,163.0,163.0,True
+Inter-grader unweighted kappa,0.734,0.734,True
+Inter-grader quadratic kappa,0.889,0.889,True
+Inter-grader macular edema kappa,0.874,0.874,True
+Referable DR (reference),173.0,173.0,True
+Macular-edema-only referable cases,5.0,5.0,True
+Five-class accuracy (%),79.5,79.5,True
+Macro precision,0.676,0.676,True
+Macro recall,0.622,0.622,True
+Macro F1,0.635,0.635,True
+Weighted F1,0.793,0.793,True
+Unweighted kappa,0.679,0.679,True
+Quadratic weighted kappa,0.908,0.908,True
+Quadratic kappa 95% CI low,0.881,0.881,True
+Quadratic kappa 95% CI high,0.931,0.931,True
+rDR accuracy (%),95.9,95.9,True
+rDR sensitivity (%),96.5,96.5,True
+rDR sensitivity 95% CI low,93.5,93.5,True
+rDR sensitivity 95% CI high,98.9,98.9,True
+rDR specificity (%),95.5,95.5,True
+rDR specificity 95% CI low,92.6,92.6,True
+rDR specificity 95% CI high,97.9,97.9,True
+rDR PPV (%),93.8,93.8,True
+rDR NPV (%),97.5,97.5,True
+"rDR F1, referable class",0.952,0.952,True
+rDR kappa,0.916,0.916,True
+Model false negatives,6.0,6.0,True
+Model false positives,11.0,11.0,True
+"rDR accuracy, model − mean of readers (points)",6.5,6.5,True
+"rDR accuracy, model − Reader 2 (points)",2.4,2.4,True
+"rDR accuracy vs Reader 2, McNemar p",0.087,0.087,True
+"Kappa, model vs Grader A alone",0.898,0.898,True
+"Kappa, model vs Grader B alone",0.882,0.882,True
+Misclassified images,85.0,85.0,True
+Errors one grade apart (%),85.9,85.9,True
+Errors of two or more grades,12.0,12.0,True

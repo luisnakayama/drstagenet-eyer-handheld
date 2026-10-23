@@ -1,0 +1,21 @@
+Rater,Reference standard,No DR,Mild NPDR,Moderate NPDR,Severe NPDR,PDR
+AI,No DR,197,17,7,0,0
+AI,Mild NPDR,8,11,7,0,0
+AI,Moderate NPDR,1,3,95,7,0
+AI,Severe NPDR,0,0,25,8,0
+AI,PDR,0,0,4,6,19
+Reader 1,No DR,217,4,0,0,0
+Reader 1,Mild NPDR,25,0,0,0,1
+Reader 1,Moderate NPDR,48,28,18,6,6
+Reader 1,Severe NPDR,2,0,4,14,13
+Reader 1,PDR,6,1,2,2,18
+Reader 2,No DR,207,11,3,0,0
+Reader 2,Mild NPDR,12,12,2,0,0
+Reader 2,Moderate NPDR,8,16,35,47,0
+Reader 2,Severe NPDR,0,0,1,18,14
+Reader 2,PDR,0,1,5,4,19
+Reader 3,No DR,178,39,4,0,0
+Reader 3,Mild NPDR,10,14,0,1,1
+Reader 3,Moderate NPDR,7,39,30,26,4
+Reader 3,Severe NPDR,1,0,11,15,6
+Reader 3,PDR,1,0,2,1,25

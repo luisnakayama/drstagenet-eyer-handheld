@@ -1,0 +1,20 @@
+Variable,Level,Missing,"Value, mean (± SD) or n (%)"
+Patient level,,,n = 252 patients
+"Age, years",,0,55.9 (± 17.9)
+"Diabetes duration, years",,6,15.3 (± 9.2)
+Sex,Female,0,139 (55.2)
+Sex,Male,0,113 (44.8)
+Race,Asian,3,6 (2.4)
+Race,Black,3,53 (21.0)
+Race,Mixed,3,105 (41.7)
+Race,White,3,85 (33.7)
+Hypertension,No,0,90 (35.7)
+Hypertension,Yes,0,162 (64.3)
+Image level,,,n = 415 images
+ICDR,0 - No DR,0,221 (53.3)
+ICDR,1 - Mild NPDR,0,26 (6.3)
+ICDR,2 - Moderate NPDR,0,106 (25.5)
+ICDR,3 - Severe NPDR,0,33 (8.0)
+ICDR,4 - PDR,0,29 (7.0)
+Macular edema,Present,0,112 (27.0)
+Referable DR,Yes,0,173 (41.7)
