@@ -1,0 +1,10 @@
+# Patient-level data and images: never commit (ethics committee restriction)
+data/*
+!data/README.md
+
+# Generated results (regenerate with the notebook)
+outputs/
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
